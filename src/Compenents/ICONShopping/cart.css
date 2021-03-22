@@ -1,0 +1,13 @@
+.fa, .fas {
+    font-weight: 900;
+    color: white;
+    font-size: 23px;
+}
+
+.badge-danger {
+    color: #fff !important;
+    top: -17px;
+    position: relative;
+    background-color: #ff3547 !important;
+    
+}
